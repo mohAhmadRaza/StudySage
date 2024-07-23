@@ -1,4 +1,6 @@
 streamlit
 crewai==0.41.1
+embedchain==0.0.1
+chromadb==0.3.23
 langchain_groq
 python-dotenv
