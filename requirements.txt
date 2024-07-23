@@ -1,6 +1,4 @@
 streamlit
-crewai==1.0.0
-embedchain==1.0.0
-chromadb==1.0.0
+crewai
 langchain_groq
 python-dotenv
