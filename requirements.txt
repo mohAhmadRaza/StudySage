@@ -1,6 +1,7 @@
 streamlit
 crewai
-embedchain
-chromadb
-langchain-groq
+langchain_groq
+crewai_tools
 python-dotenv
+pandas
+ipython
