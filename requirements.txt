@@ -1,4 +1,5 @@
 streamlit
-crew-ai
+crewai
 langchain-groq
 python-dotenv
+crewai_tools
