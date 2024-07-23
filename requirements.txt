@@ -1,7 +1,4 @@
 streamlit
 crewai
 langchain_groq
-crewai_tools
 python-dotenv
-pandas
-ipython
