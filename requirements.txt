@@ -2,3 +2,4 @@ streamlit==1.23.1
 crewai==0.0.1  # Update with the correct version if available
 langchain_groq==0.1.0  # Update with the correct version if available
 python-dotenv==1.0.0
+sqlite3==3.35.0
